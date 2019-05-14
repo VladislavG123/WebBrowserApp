@@ -1,0 +1,15 @@
+C:\Users\гороховв.CORP\source\repos\WebBrowserApp\WebBrowserApp\bin\Debug\WebBrowserApp.exe.config
+C:\Users\гороховв.CORP\source\repos\WebBrowserApp\WebBrowserApp\bin\Debug\WebBrowserApp.exe
+C:\Users\гороховв.CORP\source\repos\WebBrowserApp\WebBrowserApp\bin\Debug\WebBrowserApp.pdb
+C:\Users\гороховв.CORP\source\repos\WebBrowserApp\WebBrowserApp\obj\Debug\MainWindow.g.cs
+C:\Users\гороховв.CORP\source\repos\WebBrowserApp\WebBrowserApp\obj\Debug\App.g.cs
+C:\Users\гороховв.CORP\source\repos\WebBrowserApp\WebBrowserApp\obj\Debug\WebBrowserApp_MarkupCompile.cache
+C:\Users\гороховв.CORP\source\repos\WebBrowserApp\WebBrowserApp\obj\Debug\WebBrowserApp_MarkupCompile.lref
+C:\Users\гороховв.CORP\source\repos\WebBrowserApp\WebBrowserApp\obj\Debug\MainWindow.baml
+C:\Users\гороховв.CORP\source\repos\WebBrowserApp\WebBrowserApp\obj\Debug\WebBrowserApp.g.resources
+C:\Users\гороховв.CORP\source\repos\WebBrowserApp\WebBrowserApp\obj\Debug\WebBrowserApp.Properties.Resources.resources
+C:\Users\гороховв.CORP\source\repos\WebBrowserApp\WebBrowserApp\obj\Debug\WebBrowserApp.csproj.GenerateResource.cache
+C:\Users\гороховв.CORP\source\repos\WebBrowserApp\WebBrowserApp\obj\Debug\WebBrowserApp.csproj.CoreCompileInputs.cache
+C:\Users\гороховв.CORP\source\repos\WebBrowserApp\WebBrowserApp\obj\Debug\WebBrowserApp.exe
+C:\Users\гороховв.CORP\source\repos\WebBrowserApp\WebBrowserApp\obj\Debug\WebBrowserApp.pdb
+C:\Users\гороховв.CORP\source\repos\WebBrowserApp\WebBrowserApp\obj\Debug\WebBrowserApp.csprojAssemblyReference.cache
